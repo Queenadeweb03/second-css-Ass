@@ -1,0 +1,53 @@
+.box {
+    border-style: dotted;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    margin: auto;
+    width: 80%;
+    position: relative;
+}
+
+.type {
+    border: 50px solid lightgray;
+    text-align: center;
+}
+
+.margin {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.type1 {
+    border: 50px solid green;
+    text-align: center;
+}
+
+.border {
+    position: absolute;
+    top: 45px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+}
+
+.type2 {
+    border: 50px solid azure;
+    text-align: center;
+}
+
+.padding {
+    position: absolute;
+    top: 95px;
+    left: 0;
+    right: 0;
+}
+
+.type3 {
+    border-style: dotted;
+    text-align: center;
+}
